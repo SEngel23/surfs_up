@@ -32,5 +32,7 @@ The data in the results section displays temperature statistics on the island of
 
 ---
 ## Resources
+
 Python Files: [SurfsUp_Challenge.ipynb](SurfsUp_Challenge.ipynb)
+
 SQL-lite File: [hawaii.sqlite](hawaii.sqlite)
